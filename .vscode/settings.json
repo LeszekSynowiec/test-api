@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7dd3b78d-610e-474e-95ed-4a3e5ddc34a2/resourceGroups/lsdev-test-api_group/providers/Microsoft.Web/sites/lsdev-test-api",
+    "appService.deploySubpath": "."
+}
